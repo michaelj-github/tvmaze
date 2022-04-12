@@ -1,0 +1,46 @@
+body {
+  background-color: ivory;
+}
+
+h1 {
+  font-family: cursive;
+  font-size: 40px;
+  color: teal;
+}
+
+.getEpisodes {
+  background-color: #0057B7;
+  color: white;
+  cursor: pointer;
+  border-radius: 8px;
+  font-family: cursive;
+}
+
+.getEpisodes:hover {
+  background-color: #FFD700;
+  color: black;
+}
+
+#aSummary {
+  width: 400px;
+}
+
+.elementViewOff {
+  visibility: hidden;
+}
+
+.elementViewOn {
+  visibility: visible;
+}
+
+.btn-primary {
+  background-color: #0057B7;
+  color: white;
+  cursor: pointer;
+  font-family: cursive;
+}
+
+.btn-primary:hover {
+  background-color: #FFD700;
+  color: black;
+}
